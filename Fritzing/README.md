@@ -1,0 +1,2 @@
+* Fritzing diagram showing the USB Type A Female Breakout Board connected to an [mbed LPC1768](https://www.sparkfun.com/products/9564)
+* The subfolder contains the source files for the Fritzing diagrams

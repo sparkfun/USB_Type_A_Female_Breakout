@@ -12,6 +12,7 @@ This part was created in Eagle v6.5.0. Example sketches were created in Arduino 
 Repository Contents
 -------------------
 
+* **/Fritzing** - Source files and examples for Fritzing diagrams
 * **/Hardware** - All Eagle design files (.brd, .sch, .STL)
 * **/Production** - Test bed files and production panel files
 
