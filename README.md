@@ -1,7 +1,7 @@
-Breakout_Board_for_USB_A_Female
+Breakout Board for USB A Female
 ===============================
 
-[![alt text](https://dlnmh9ip6v2uc.cloudfront.net/assets/2/a/5/8/3/52f29ce3ce395f99108b4568.jpg)](https://dlnmh9ip6v2uc.cloudfront.net/assets/2/a/5/8/3/52f29ce3ce395f99108b4568.jpg)
+[![USB Type A Female Breakout](https://dlnmh9ip6v2uc.cloudfront.net/assets/2/a/5/8/3/52f29ce3ce395f99108b4568.jpg)](https://dlnmh9ip6v2uc.cloudfront.net/assets/2/a/5/8/3/52f29ce3ce395f99108b4568.jpg)
 
 [*USB Type A Female Breakout Board (BOB-12700)*](https://www.sparkfun.com/products/12700)
 
@@ -13,7 +13,7 @@ Repository Contents
 -------------------
 
 * **/Fritzing** - Source files and examples for Fritzing diagrams
-* **/Hardware** - All Eagle design files (.brd, .sch, .STL)
+* **/Hardware** - All Eagle design files (.brd, .sch)
 * **/Production** - Test bed files and production panel files
 
 Version History
@@ -22,5 +22,7 @@ Version History
 
 License Information
 -------------------
-The hardware is released under [Creative Commons Share-alike 3.0](http://creativecommons.org/licenses/by-sa/3.0/).  
-All other code is open source so please feel free to do anything you want with it; you buy me a beer if you use this and we meet someday ([Beerware license](http://en.wikipedia.org/wiki/Beerware)).
+The hardware is released under [Creative Commons ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
+The code is beerware; if you see me (or any other SparkFun employee) at the local, and you've found our code helpful, please buy us a round!
+
+Distributed as-is; no warranty is given.
