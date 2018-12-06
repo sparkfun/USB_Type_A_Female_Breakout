@@ -16,6 +16,10 @@ Repository Contents
 * **/Hardware** - All Eagle design files (.brd, .sch)
 * **/Production** - Test bed files and production panel files
 
+Documentation
+--------------
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/usb-type-a-female-breakout-hookup-guide)** - Basic hookup guide.
+
 Version History
 ---------------
 * **v1.0** Initial release
