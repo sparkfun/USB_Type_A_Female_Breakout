@@ -1,7 +1,7 @@
 Breakout Board for USB A Female
 ===============================
 
-[![USB Type A Female Breakout](https://dlnmh9ip6v2uc.cloudfront.net/assets/2/a/5/8/3/52f29ce3ce395f99108b4568.jpg)](https://www.sparkfun.com/products/12700)
+[![USB Type A Female Breakout](https://cdn.sparkfun.com/assets/parts/9/4/4/0/12700-01.jpg)](https://www.sparkfun.com/products/12700)
 
 [*USB Type A Female Breakout Board (BOB-12700)*](https://www.sparkfun.com/products/12700)
 
